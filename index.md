@@ -10,9 +10,7 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
+    link_text: Apps
   - link: "#"
     link_text: Team
   cta:
@@ -20,13 +18,12 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: 날씨에 따른 옷 추천  <br><strong>Style Weather</strong>
+  content: 변화하는 날씨에 따라 입어야 할 스타일의 옷을 추천해드립니다.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://play.google.com/store/apps/details?id=xyz.thingapps.styleweatherrelease
+    button_text: Google Play Store
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
@@ -75,6 +72,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
+published: false
 
+---
 foo bar
