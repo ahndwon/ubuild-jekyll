@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
+  - link: "/apps"
     link_text: Apps
   - link: "#"
     link_text: Team
