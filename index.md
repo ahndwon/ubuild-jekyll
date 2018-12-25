@@ -25,7 +25,7 @@ page_sections:
     url: https://play.google.com/store/apps/details?id=xyz.thingapps.styleweatherrelease
     button_text: Google Play Store
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2018/12/25/style-weather-main.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
