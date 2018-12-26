@@ -31,7 +31,7 @@ markdown: kramdown
 gems:
 - jekyll-feed
 - jekyll-menus
-timezone: Etc/UTC
+timezone: Asia/Seoul
 </p>
 
   </body>
