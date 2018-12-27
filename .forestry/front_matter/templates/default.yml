@@ -7,4 +7,10 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: default
+  default: 2-column
+- type: color
+  config:
+    color_format: Hex
+  default: "#FF0000"
+- type: include
+  template: 2-column-media-element
