@@ -18,7 +18,7 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
-upload_dir: thingapps
+upload_dir: ''
 public_path: https://res.cloudinary.com/dq1ycmb5k/image/upload
 front_matter_path: ''
 use_front_matter_path: 
