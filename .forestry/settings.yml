@@ -18,8 +18,8 @@ sections:
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: thingapps
+public_path: "/thingapps"
 front_matter_path: ''
-use_front_matter_path: false
-file_template: ":year:/:month:/:day:/:filename:"
+use_front_matter_path: 
+file_template: ":filename:"
