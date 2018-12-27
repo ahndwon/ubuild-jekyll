@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/thingapps/v1545903935/thingapps/thingapps_logo_2x.png"
+  logo: https://res.cloudinary.com/dq1ycmb5k/image/upload/v1545903935/thingapps/thingapps_logo_2x.png
   navigation:
   - link: "/"
     link_text: Home
@@ -25,9 +25,9 @@ page_sections:
     url: https://play.google.com/store/apps/details?id=xyz.thingapps.styleweatherrelease
     button_text: Google Play Store
   image:
-    image: https://res.cloudinary.com/dq1ycmb5k/image/upload/v1545903937/thingapps/v1545903936/thingapps/styleweather_main_2x.png
+    image: https://res.cloudinary.com/dq1ycmb5k/image/upload/v1545903936/thingapps/styleweather_main_2x.png
     alt_text: Product Shot
-  background_image: https://res.cloudinary.com/dq1ycmb5k/image/upload/v1545903937/thingapps/v1545903935/thingapps/hero-2-bg.png
+  background_image: https://res.cloudinary.com/dq1ycmb5k/image/upload/v1545903935/thingapps/hero-2-bg.png
 - template: content-feature
   block: feature-1
   media_alignment: Left
